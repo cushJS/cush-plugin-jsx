@@ -1,4 +1,4 @@
-# cush-plugin-jsx v0.0.1
+# cush-plugin-jsx v0.1.0
 
 Transform JSX to valid Javascript.
 
