@@ -1,0 +1,11 @@
+{
+  "name": "cush-plugin-jsx",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "JSX for cush",
+  "repository": "cushJS/jsx",
+  "peerDependencies": {
+    "cush": "^0.2.0",
+    "cush-plugin-sucrase": "^0.1.0"
+  }
+}
